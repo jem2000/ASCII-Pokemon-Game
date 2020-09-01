@@ -1,5 +1,7 @@
 ASCII-Pokemon-Game
 
+This project was built in CLion, to import it as a project, go to Open, select the CMakeLists.txt file, then it will prompt you to Open as Project. 
+
 A Pokemon game created with a simple ASCII grid that involves functionalities of moving, training, battling, recovering health, and Pokemon trading. Created in EC327
 
 
